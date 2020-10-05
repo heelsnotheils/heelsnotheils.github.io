@@ -1,2 +1,5 @@
-# heelsnotheils.github.io
-Heels, NOT Heils
+---
+permalink: /index.html
+---
+
+# Heels, NOT Heils
